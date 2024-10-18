@@ -1,5 +1,3 @@
-## Hi there 👋
-
  ### Olá! Me chamo Renato Parente !👋
  * 📈​ Atualmente trabalho como Engenheiro de Analytics (tecnologias principais: spark, AWS service e python)
  * 📗​ Estudando tecnologias e conceitos de Engenharia de Dados
