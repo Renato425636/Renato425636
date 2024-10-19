@@ -19,4 +19,4 @@
 
 Apaixonado por tratamento e manipulação de dados.
 
-[![Meu badge de certificação](https://images.credly.com/size/110x110/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png)](https://www.credly.com/badges/1d54ec16-4c46-42bf-9778-8368611ae961)
+[![Meu badge de certificação](https://images.credly.com/size/340x340/images/4bb6709a-e50d-47fa-94d5-0327ccd399bf/image.png)](https://images.credly.com/size/340x340/images/4bb6709a-e50d-47fa-94d5-0327ccd399bf/image.png)
