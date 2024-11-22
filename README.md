@@ -20,5 +20,7 @@
 Apaixonado por tratamento e manipulação de dados.
  <div style = "display: inline_block"><br/>
   <img align = "center" alt ="html5" src = "https://github.com/Renato425636/imos/blob/main/associate-analytics-engineering.1-removebg-preview.png?raw=true" width = "140" height = "140" />
+  <img align = "center" alt ="html5" src = "https://github.com/Renato425636/imos/blob/main/associate-data-mod.png?raw=true" width = "140" height = "140" />
+  <img align = "center" alt ="html5" src = "https://github.com/Renato425636/imos/blob/main/associate-data-eng.png?raw=true" width = "140" height = "140" />
     <img align = "center" alt ="html5" src = "https://github.com/Renato425636/imos/blob/main/databricks.png?raw=true" width = "140" height = "110" >
  </div>
