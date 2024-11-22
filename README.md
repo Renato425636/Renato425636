@@ -18,9 +18,34 @@
 
 
 Apaixonado por tratamento e manipulação de dados.
- <div style = "display: inline_block"><br/>
-  <img align = "center" alt ="html5" src = "https://github.com/Renato425636/imos/blob/main/associate-analytics-engineering.1-removebg-preview.png?raw=true" width = "140" height = "140" />
-  <img align = "center" alt ="html5" src = "https://github.com/Renato425636/imos/blob/main/associate-data-mod.png?raw=true" width = "140" height = "140" />
-  <img align = "center" alt ="html5" src = "https://github.com/Renato425636/imos/blob/main/associate-data-eng.png?raw=true" width = "140" height = "140" />
-    <img align = "center" alt ="html5" src = "https://github.com/Renato425636/imos/blob/main/databricks.png?raw=true" width = "140" height = "110" >
- </div>
+
+<div style="display: inline-block; text-align: center;">
+  <img 
+    align="center" 
+    alt="html5" 
+    src="https://github.com/Renato425636/imos/blob/main/associate-analytics-engineering.1-removebg-preview.png?raw=true" 
+    style="width: 140px; height: 140px; vertical-align: middle; margin-right: 10px;" 
+  />
+  <img 
+    align="center" 
+    alt="html5" 
+    src="https://github.com/Renato425636/imos/blob/main/associate-data-mod.png?raw=true" 
+    style="width: 170px; height: 120px; vertical-align: middle; margin-right: 10px; margin-top: 20px;" 
+  />
+  <img 
+    align="center" 
+    alt="html5" 
+    src="https://github.com/Renato425636/imos/blob/main/associate-data-eng.png?raw=true" 
+    style="width: 170px; height: 140px; vertical-align: middle; margin-right: 50px;" 
+  />
+  <img 
+    align="center" 
+    alt="html5" 
+    src="https://github.com/Renato425636/imos/blob/main/databricks.png?raw=true" 
+    style="width: 140px; height: 120px; vertical-align: middle;" 
+  />
+</div>
+
+
+
+
