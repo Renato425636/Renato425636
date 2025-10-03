@@ -1,10 +1,10 @@
 # Olá, eu sou o Renato Parente! 👋
 
-### Engenheiro de Analytics | Data Enthusiast
+### Engenheiro de Dados | Data Enthusiast
 
 Bem-vindo ao meu espaço! Sou um profissional apaixonado por desvendar o potencial dos dados. Com foco em tecnologias de Big Data, meu trabalho é projetar, construir e manter pipelines de dados que sejam eficientes, escaláveis e, acima de tudo, que gerem valor real.
 
-* **O que eu faço:** Atuo como **Engenheiro de Analytics**, transformando complexos conjuntos de dados em informações acionáveis, utilizando principalmente **Spark, Python e o ecossistema AWS**.
+* **O que eu faço:** Atuo como **Engenheiro de Dados**, transformando complexos conjuntos de dados em informações acionáveis, utilizando principalmente **Spark, Python e o ecossistema AWS**.
 * **O que eu busco:** Estou em constante aprendizado sobre **Engenharia de Dados**, explorando novas arquiteturas e ferramentas para resolver desafios cada vez maiores.
 * **Vamos conversar?** Me encontre no [**LinkedIn**](https://www.linkedin.com/in/renato-assis-schiavon-parente-a323011b3/).
 
