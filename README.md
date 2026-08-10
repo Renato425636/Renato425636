@@ -18,19 +18,6 @@ Construo a camada entre o dado bruto e quem o consome: frameworks de segurança,
 
 ---
 
-## Números
-
-| | |
-| :--- | :--- |
-| **20 min → 10 s** | Tempo de concessão de acesso a dados, após automação |
-| **~300** | DAGs em produção sob gestão do time |
-| **1,5 bi** | Eventos processados por dia (jornada do cliente) |
-| **11 TB** | Base analítica única em Apache Iceberg |
-| **2 h → 10 min** | Tempo médio de pipelines modernizados para serverless |
-| **15+** | Times com troca segura de dados via tunelamento de sandboxes |
-
----
-
 ## Experiência
 
 Atualmente **Engenheiro de Dados II** na Nio (GCP), onde projeto frameworks de segurança e governança de dados, serviços de acesso e pipelines de orquestração em escala. Antes disso, mais de 3 anos no Itaú Unibanco (AWS), passando por Analytics Engineering no maior app bancário da América Latina e modernização de pipelines legados para arquitetura serverless. 5+ anos de experiência ponta a ponta: arquitetura, ingestão, modelagem analítica e disponibilização de dados para BI e Data Science.
