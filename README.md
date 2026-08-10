@@ -14,7 +14,7 @@
 
 Construo a camada entre o dado bruto e quem o consome: frameworks de segurança, serviços de acesso, qualidade de dados e orquestração em escala.
 
-**→ [Portfólio completo](https://renato4256.github.io)** — arquitetura, decisões e trade-offs de cada projeto, folha por folha.
+**→ [Portfólio completo](https://renato425636.github.io/analytics-repo/)** — arquitetura, decisões e trade-offs de cada projeto, folha por folha.
 
 ---
 
